@@ -12,7 +12,7 @@
 #include <uavcan/dynamic_memory.hpp>
 #include <uavcan/util/templates.hpp>
 #include <uavcan/util/placement_new.hpp>
-
+#undef index
 #if !defined(UAVCAN_CPP_VERSION) || !defined(UAVCAN_CPP11)
 # error UAVCAN_CPP_VERSION
 #endif
