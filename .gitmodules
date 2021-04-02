@@ -4,4 +4,4 @@
 	branch = legacy-v0
 [submodule "libuavcan/dsdl_compiler/pyuavcan"]
 	path = libuavcan/dsdl_compiler/pyuavcan
-	url = https://github.com.cnpmjs.org/UAVCAN/pyuavcan
+	url = https://github.com.cnpmjs.org/lupixi/pyuavcan
