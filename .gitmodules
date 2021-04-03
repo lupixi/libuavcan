@@ -1,7 +1,7 @@
 [submodule "dsdl"]
 	path = dsdl
-	url = https://github.com.cnpmjs.org/PX4/dsdl
+	url = https://github.com.cnpmjs.org/lupixi/dsdl
 	branch = legacy-v0
 [submodule "libuavcan/dsdl_compiler/pyuavcan"]
 	path = libuavcan/dsdl_compiler/pyuavcan
-	url = https://github.com.cnpmjs.org/PX4/pyuavcan
+	url = https://github.com.cnpmjs.org/lupixi/pyuavcan
